@@ -1,0 +1,15 @@
+"issue type (fixed)"; "status 2 (for correspondance to solved/not solved)"; "ticketID 2 (for correspondance to keyword)"; "ticket_id"; "ticketID"; "dept_id"; "priority_id"; "topic_id"; "staff_id"; "email"; "name"; "subject"; "helptopic"; "phone"; "phone_ext"; "ip_address"; "status"; "source"; "isoverdue"; "isanswered"; "duedate"; "reopened"; "closed"; "lastmessage"; "lastresponse"; "created"; "updated"; "comment1"; "comment2"; "comment3"; "comment4"; "comment5"; "comment6"; "comment7"; "comment8"; "attachment1"; "attachment2"; "attachment3"; "attachment4"; "attachment5"; "end of line"
+"issue"; "closed"; ""; "1";"771116";"1";"2";"0";"0";"support@osticket.com";"osTicket Support";"osTicket Installed!";"Commercial support";"";"";"";"closed";"Web";"0";"0";"";"";"2012-07-26 16:34:42";"";"";"2012-07-26 16:09:50";"2012-07-26 16:34:42";"2012-07-26 16:09:50;support@osticket.com;Thank you for choosing osTicket.
+
+    
+
+Please make sure you join the osTicket forums at http://osticket.com/forums to stay up to date on the latest news, security alerts and updates. The osTicket forums are also a great place to get assistance, guidance, tips, and help from other osTicket users. In addition to the forums, the osTicket wiki provides a useful collection of educational materials, documentation, and notes from the community. We welcome your contributions to the osTicket community.
+
+
+If you are looking for a greater level of support, we provide professional services and commercial support with guaranteed response times, and access to the core development team. We can also help customize osTicket or even add new features to the system to meet your unique needs.
+
+
+For more information or to discuss your needs, please contact us today at http://osticket.com/support/. Your feedback is greatly appreciated!
+
+
+- The osTicket Team"; ""; ""; ""; ""; ""; ""; ""; ""; ""; ""; ""; ""; "end of line"
