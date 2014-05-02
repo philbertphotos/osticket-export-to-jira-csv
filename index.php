@@ -1,4 +1,13 @@
 <?php
+/*
+ *	OSTICKET to JIRA Service Desk migration tool
+ */
+
+// Important things to note :
+// - commments are written this way "date;user;comment" to be attributed to the right user
+// - customer request type is a mandatory field for service desk tickets, it *can't* be hand-modified after [looks like that for me : col/get-it-help]
+// - issue type is a mandatory field for JIRA, I create a fixed column to create a mapping with a constant value
+
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = "password";
