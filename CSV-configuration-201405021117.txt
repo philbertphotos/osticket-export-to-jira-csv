@@ -13,6 +13,7 @@
   "field.attachment_comment1" : "comment",
   "value.staff_id.0" : "gmichelin",
   "date.import.format" : "yyyy-MM-dd HH:mm:ss",
+  "field.dept_id" : "customfield_10022",
   "field.ticketID 2 (for correspondance to keyword)" : "labels",
   "project.name" : "collectiveaccess",
   "field.email" : "reporter",
@@ -28,6 +29,7 @@
   "field.comment1" : "comment",
   "field.comment2" : "comment",
   "field.attachment2" : "attachment",
+  "value.dept_id.1" : "col/get-it-help",
   "field.attachment1" : "attachment",
   "date.fields" : "created",
   "field.attachment4" : "attachment",
@@ -39,8 +41,8 @@
   "value.issue type (fixed).issue" : "10100",
   "mapfromcsv" : "false",
   "field.comment5" : "comment",
-  "field.comment6" : "comment",
   "field.status 2 (for correspondance to solved/not solved)" : "resolution",
+  "field.comment6" : "comment",
   "field.comment3" : "comment",
   "field.comment4" : "comment"
 }
